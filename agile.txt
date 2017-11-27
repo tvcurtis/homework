@@ -1,0 +1,14 @@
+test
+As a customer of a car rental company: 
+I want to rent a car, truck or suv so that I can drive to my destination
+Scenarios: 
+Customer is over 25 / under 25
+Customer has insurance / doesn’t have insurance
+Car, SUV & Truck tiered pricing 
+Requested vehicle not available
+Customer rental period variable 
+Car returned late 
+Car returned early 
+Pay gas when Customer returns
+Method of payment
+Security Deposit
